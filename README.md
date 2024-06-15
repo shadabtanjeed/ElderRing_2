@@ -14,31 +14,39 @@ Elder Ring is a Flutter application designed to assist in elder care. It provide
 
 ### Home Page
 
-![Home Page](screenshots/home_page.png)
+<img src="https://github.com/shadabtanjeed/ElderRing_2/assets/127338881/cf93b6d4-5b75-4e6b-b35e-6a3103d274c5" alt="Home Page" width="300" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);"/>
 
 ### Medication Schedule
 
-![Medication Schedule](screenshots/medication_schedule.png)
+<img src="https://github.com/shadabtanjeed/ElderRing_2/assets/127338881/d1f01c55-04cf-4e4f-8198-6bf826a7bead" alt="Medication Schedule" width="300" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);"/>
 
 ### Add Medicine
 
-![Add Medicine](screenshots/add_medicine.png)
+<img src="https://github.com/shadabtanjeed/ElderRing_2/assets/127338881/976e0c4c-76aa-478b-9dd9-ede795c58971" alt="Add Medicine" width="300" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);"/>
 
 ### Medication Reminder
 
-![Medication Reminder](screenshots/medication_reminder.png)
+<img src="https://github.com/shadabtanjeed/ElderRing_2/assets/127338881/e4d108bf-ade1-4dc6-9b32-b4f37fb243b5" alt="Medication Reminder" width="300" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);"/>
 
 ### Location Sharing
 
-![Location Sharing](screenshots/location_sharing.png)
+<img src="https://github.com/shadabtanjeed/ElderRing_2/assets/127338881/e061899b-2571-4305-8323-0f93ed1c5682" alt="Location Sharing" width="300" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);"/>
 
 ### Chat
 
-![Chat](screenshots/chat.png)
+<img src="https://github.com/shadabtanjeed/ElderRing_2/assets/127338881/6d8c6e98-addf-46b1-adb7-019122420722" alt="Chat" width="300" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);"/>
 
 ### Screen Share
 
-![Screen Share](screenshots/screen_share.png)
+<img src="https://github.com/shadabtanjeed/ElderRing_2/assets/127338881/058bf3cd-5e9e-4236-84f5-f041a36c3589" alt="Screen Share" width="300" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);"/>
+
+### Emergency Medication
+
+<img src="https://github.com/shadabtanjeed/ElderRing_2/assets/127338881/58128abf-ec50-4635-bc05-7e246aad4f0a" alt="Emergency Medication" width="300" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);"/>
+
+### Emergency Medication
+
+<img src="https://github.com/shadabtanjeed/ElderRing_2/assets/127338881/1696a65f-2070-4b01-b64a-89bab478a5a2" alt="Emergency Medication" width="300" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);"/>
 
 ## Technologies Used
 
