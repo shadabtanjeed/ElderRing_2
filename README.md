@@ -1,4 +1,4 @@
-# Elder Ring Application
+# ElderRing
 
 Elder Ring is a Flutter application designed to assist in elder care. It provides features like medication reminders, location sharing, group chat, emergency medication list, and video call with care provider.
 
@@ -9,6 +9,13 @@ Elder Ring is a Flutter application designed to assist in elder care. It provide
 - **Group Chat**: Enables chat between elders for better communication and social interaction.
 - **Emergency Medication**: Provides a predefined list of medication for emergency cases.
 - **Call with Care Provider**: Facilitates video call and screen sharing with the care provider for better assistance.
+
+## Technologies Used
+
+- Flutter
+- Firebase Cloud Messaging (FCM)
+- Google Maps API
+- Jitsi Meet
 
 ## Screenshots
 
@@ -47,13 +54,6 @@ Elder Ring is a Flutter application designed to assist in elder care. It provide
 ### Emergency Medication
 
 <img src="https://github.com/shadabtanjeed/ElderRing_2/assets/127338881/1696a65f-2070-4b01-b64a-89bab478a5a2" alt="Emergency Medication" width="300" style="border: 1px solid #ddd; border-radius: 4px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);"/>
-
-## Technologies Used
-
-- Flutter
-- Firebase Cloud Messaging (FCM)
-- Google Maps API
-- Jitsi Meet
 
 ## Getting Started
 
