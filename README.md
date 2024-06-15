@@ -4,11 +4,41 @@ Elder Ring is a Flutter application designed to assist in elder care. It provide
 
 ## Features
 
-- **Medication Reminders**: Sends reminders for medication times. If a medication is missed, a notification is sent to the care provider.
+- **Medication Reminders**: Allows users to add medicine schedules. If a medication is missed, a notification is sent to the care provider.
 - **Location Sharing**: Allows elders to share their location with their care providers.
 - **Group Chat**: Enables chat between elders for better communication and social interaction.
 - **Emergency Medication**: Provides a predefined list of medication for emergency cases.
 - **Call with Care Provider**: Facilitates video call and screen sharing with the care provider for better assistance.
+
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home_page.png)
+
+### Medication Schedule
+
+![Medication Schedule](screenshots/medication_schedule.png)
+
+### Add Medicine
+
+![Add Medicine](screenshots/add_medicine.png)
+
+### Medication Reminder
+
+![Medication Reminder](screenshots/medication_reminder.png)
+
+### Location Sharing
+
+![Location Sharing](screenshots/location_sharing.png)
+
+### Chat
+
+![Chat](screenshots/chat.png)
+
+### Screen Share
+
+![Screen Share](screenshots/screen_share.png)
 
 ## Technologies Used
 
@@ -31,6 +61,18 @@ To get a local copy up and running, follow these steps:
    - `global_notifications.dart`
    - `elderring-9e5f6-57ca287c64f3.json`
 5. Run `flutter run` to start the application.
+
+## Credentials
+
+**Elder People:**
+
+- **Username:** elder_people
+- **Password:** elder_people
+
+**Care Provider:**
+
+- **Username:** care_provider
+- **Password:** care_provider
 
 ## Note
 
