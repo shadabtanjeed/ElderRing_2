@@ -84,4 +84,4 @@ To get a local copy up and running, follow these steps:
 
 ## Note
 
-The app is still in the development phase, so not all features work as expected. Any feedback is welcome and appreciated.
+The app is still in the development phase, so all features might not work as expected. Any feedback is welcome and appreciated.
